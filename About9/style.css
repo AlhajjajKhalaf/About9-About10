@@ -1,0 +1,14 @@
+body{
+padding: 0;
+margin: 0;
+ 
+    background-color: rgb(255,255,255);
+}
+.Top{
+    padding-left: 40%;
+}
+
+.TopH2{
+width: 130px;
+    border-bottom: 5px solid blueviolet;
+}
