@@ -23,3 +23,12 @@ display: flex;
 flex-direction: row;
 gap: 8%;
 }
+.Palagh{
+    width: 300px;
+}
+
+button{
+    color: rgb(236, 229, 241);
+    background-color: rgb(135, 8, 253);
+    border: 2px solid rgb(135, 8, 253);
+}
