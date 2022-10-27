@@ -1,0 +1,20 @@
+body{
+padding: 0;
+margin: 0;
+ 
+    background-color: rgb(255,255,255);
+}
+
+.Top{
+    padding-left: 40%;
+}
+.Top h1{
+    font-size: 60px;
+opacity: 0.4;
+}
+.Top h4{
+    position: relative;
+    right: 4px;
+    bottom: 60px;
+    opacity: 0.7;
+    }
